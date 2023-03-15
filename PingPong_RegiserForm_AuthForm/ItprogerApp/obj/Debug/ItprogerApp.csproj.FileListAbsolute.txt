@@ -1,0 +1,72 @@
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\ItprogerApp.exe.config
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\ItprogerApp.exe
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\ItprogerApp.pdb
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.csproj.AssemblyReference.cache
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.Properties.Resources.resources
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.csproj.GenerateResource.cache
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.csproj.CoreCompileInputs.cache
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.exe
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.pdb
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\Google.Protobuf.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\MySql.Data.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\System.Buffers.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\System.Memory.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\ZstdNet.dll
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\Google.Protobuf.xml
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\MySql.Data.xml
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\System.Buffers.xml
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\System.Memory.xml
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.RegisterForm.resources
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.csproj.CopyComplete
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.AuthForm.resources
+C:\Users\gduda\source\repos\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.PingPong.resources
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\ItprogerApp.exe.config
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\ItprogerApp.exe
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\ItprogerApp.pdb
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\MySql.Data.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\System.Buffers.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\System.Memory.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\ZstdNet.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\MySql.Data.xml
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\System.Buffers.xml
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\System.Memory.xml
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.csproj.AssemblyReference.cache
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.AuthForm.resources
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.PingPong.resources
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.Properties.Resources.resources
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.RegisterForm.resources
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.csproj.GenerateResource.cache
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.csproj.CoreCompileInputs.cache
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.csproj.CopyComplete
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.exe
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\ItprogerApp\ItprogerApp\obj\Debug\ItprogerApp.pdb

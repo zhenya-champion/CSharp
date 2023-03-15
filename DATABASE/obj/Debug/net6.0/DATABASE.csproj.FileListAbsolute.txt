@@ -1,0 +1,68 @@
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\DATABASE.exe
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\DATABASE.deps.json
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\DATABASE.runtimeconfig.json
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\DATABASE.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\DATABASE.pdb
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Евгений\Desktop\DATABASE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Евгений\Desktop\DATABASE\obj\Debug\net6.0\DATABASE.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\DATABASE\obj\Debug\net6.0\DATABASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\DATABASE\obj\Debug\net6.0\DATABASE.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\DATABASE\obj\Debug\net6.0\DATABASE.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\DATABASE\obj\Debug\net6.0\DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\DATABASE\obj\Debug\net6.0\DATABASE.csproj.CopyComplete
+C:\Users\Евгений\Desktop\DATABASE\obj\Debug\net6.0\DATABASE.dll
+C:\Users\Евгений\Desktop\DATABASE\obj\Debug\net6.0\refint\DATABASE.dll
+C:\Users\Евгений\Desktop\DATABASE\obj\Debug\net6.0\DATABASE.pdb
+C:\Users\Евгений\Desktop\DATABASE\obj\Debug\net6.0\DATABASE.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\DATABASE\obj\Debug\net6.0\ref\DATABASE.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\DATABASE.exe
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\DATABASE.deps.json
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\DATABASE.runtimeconfig.json
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\DATABASE.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\DATABASE.pdb
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\obj\Debug\net6.0\DATABASE.csproj.AssemblyReference.cache
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\obj\Debug\net6.0\DATABASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\obj\Debug\net6.0\DATABASE.AssemblyInfoInputs.cache
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\obj\Debug\net6.0\DATABASE.AssemblyInfo.cs
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\obj\Debug\net6.0\DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\obj\Debug\net6.0\DATABASE.csproj.CopyComplete
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\obj\Debug\net6.0\DATABASE.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\obj\Debug\net6.0\refint\DATABASE.dll
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\obj\Debug\net6.0\DATABASE.pdb
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\obj\Debug\net6.0\DATABASE.genruntimeconfig.cache
+C:\Users\Zheny\OneDrive\Рабочий стол\Мои работы\C#\DATABASE\obj\Debug\net6.0\ref\DATABASE.dll
